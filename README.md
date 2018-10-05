@@ -4,7 +4,7 @@ This article shows how to sketch a transactional application architecture based 
 
 # Introduction
 
-A big class of today's application fall in the category of the Transactional Applications, also known as [Online Transaction Processing](https://en.wikipedia.org/wiki/Online_transaction_processing) applications. Basically, this kind of applications continuously execute atomic actions; each action mutates a state (typically stored within a database). Examples of such applications are:
+A big class of today's applications falls in the category of the Transactional Applications, also known as [Online Transaction Processing](https://en.wikipedia.org/wiki/Online_transaction_processing) applications. Basically, this kind of applications continuously execute atomic actions; each action mutates a state (typically stored within a database). Examples of such applications are:
 
 * [Human Resource Management](https://en.wikipedia.org/wiki/Human_resource_management) (HRM) applications;
 * [Enterprise Resource Planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) (ERP) applications;
